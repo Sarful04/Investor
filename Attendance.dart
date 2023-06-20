@@ -5,7 +5,7 @@ import 'package:school_management/Screens/home.dart';
 import 'package:school_management/Widgets/AppBar.dart';
 import 'package:school_management/Widgets/MainDrawer.dart';
 import 'package:school_management/Widgets/UserDetailCard.dart';
-
+import 'package:school_management/Widgets/AppBar.dart';
 class Attendance extends StatefulWidget {
   @override
   _AttendanceState createState() => _AttendanceState();
